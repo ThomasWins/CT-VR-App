@@ -1,0 +1,38 @@
+name: Unity Build (Pro License via Serial)
+
+on:
+  push:
+    branches: [ "**" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Cache Unity files
+        uses: actions/cache@v3
+        with:
+          path: |
+            Library
+            Temp
+            .unity-cache
+          key: UnityCache-${{ runner.os }}-${{ hashFiles('ProjectSettings/ProjectVersion.txt', '**/*.cs', '**/*.unity', '**/*.prefab') }}
+          restore-keys: |
+            UnityCache-${{ runner.os }}-
+
+      - name: Unity Build via Serial
+        uses: game-ci/unity-builder@v4
+        with:
+          unityVersion: 6000.1.6f1
+          targetPlatform: StandaloneWindows64
+        env:
+          UNITY_EMAIL: ${{ vars.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+          UNITY_SERIAL: ${{ secrets.UNITY_SERIAL }}
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: WindowsBuild
+          path: build/StandaloneWindows64

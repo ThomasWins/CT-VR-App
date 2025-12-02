@@ -1,0 +1,273 @@
+[
+  {
+    "qid": 1,
+    "name": "Pacemaker Quiz",
+    "questions": [
+      {
+        "uid": 1,
+        "question": "A 68-year-old male with a history of congestive heart failure and a permanent pacemaker is admitted to the emergency department for acute shortness of breath. A chest CT scan is ordered. When reviewing the images, you notice a radiopaque object in the left side of the chest, near the heart, consistent with a pacemaker. Based on the CT scan findings, whichh of the following considerations is most important when interpreting the scan in a patient with a pacemaker?",
+        "correctAnswer": 1,
+        "answers": [
+          {
+            "aid": 1,
+            "answer": "The pacemaker can create significant image artifacts, particularly on imaging of the heart and surrounding structures, which may obscure important pathology.",
+            "explanation": "Pacemakers, especially their leads, often create imaging artifacts on CT scans due to thair metallic components. These artifacts can obscure important structures, particularly around the heart and the surrounding vasculature. Understanding the potential for these artifacts is crucial for appropriately interpreting the scan, especially when evaluating the prescence of pathologies such as fluid collection, infarction, or other conditions."
+          },
+
+          {
+            "aid": 2,
+            "answer": "The pacemaker will not interfere with the interpretation of the lung fields but will make it difficult to assess the mediastinum.",
+            "explanation": "Pacemakers, especially their leads, often create imaging artifacts on CT scans due to thair metallic components. These artifacts can obscure important structures, particularly around the heart and the surrounding vasculature. Understanding the potential for these artifacts is crucial for appropriately interpreting the scan, especially when evaluating the prescence of pathologies such as fluid collection, infarction, or other conditions."
+          },
+
+          {
+            "aid": 3,
+            "answer": "Pacemaker leads are usually seen as thin, non-radiopaque structures on CT, which their identification difficult.",
+            "explanation": "Pacemakers, especially their leads, often create imaging artifacts on CT scans due to thair metallic components. These artifacts can obscure important structures, particularly around the heart and the surrounding vasculature. Understanding the potential for these artifacts is crucial for appropriately interpreting the scan, especially when evaluating the prescence of pathologies such as fluid collection, infarction, or other conditions."
+          },
+
+          {
+            "aid": 4,
+            "answer": "The pacemaker and leads are likely to displace structures such as the lungs and diaphram, making it difficult to assess the location of lung consolidation.",
+            "explanation": "Pacemakers, especially their leads, often create imaging artifacts on CT scans due to thair metallic components. These artifacts can obscure important structures, particularly around the heart and the surrounding vasculature. Understanding the potential for these artifacts is crucial for appropriately interpreting the scan, especially when evaluating the prescence of pathologies such as fluid collection, infarction, or other conditions."
+          }
+        ]
+      }
+    ]
+  },
+  
+  {
+    "qid": 2,
+    "name": "DBS Implant Quiz",
+    "questions": [
+      {
+        "uid": 2,
+        "question": "A 75-year-old patient with Parkinson's disease presents for evaluation. A non-contrast head CT is obtained. You notice a linear hyperdense structure extending into the basal ganglia region with surrounding streak artifact. Which of the following is the most likely explanation for this finding?",
+        "correctAnswer": 7,
+        "answers": [
+          {
+            "aid": 5,
+            "answer": "Acute intracerebral hemorrhage in the basal ganglia.",
+            "explanation": "DBS systems are metallic implants commonly placed in patients with Parkinson's disease, essential tremor, or dystonia. On CT, they appear as linear hyperdense structures that can create streak artifact. Recognizing them is important to avoid misinterpreting the findings as pathology such as hemorrhage or calcification."
+          },
+
+          {
+            "aid": 6,
+            "answer": "Retained surgical sponge from prior craniotomy.",
+            "explanation": "DBS systems are metallic implants commonly placed in patients with Parkinson's disease, essential tremor, or dystonia. On CT, they appear as linear hyperdense structures that can create streak artifact. Recognizing them is important to avoid misinterpreting the findings as pathology such as hemorrhage or calcification."
+          },
+
+          {
+            "aid": 7,
+            "answer": "Deep brain stimulation (DBS) electrode implant.",
+            "explanation": "DBS systems are metallic implants commonly placed in patients with Parkinson's disease, essential tremor, or dystonia. On CT, they appear as linear hyperdense structures that can create streak artifact. Recognizing them is important to avoid misinterpreting the findings as pathology such as hemorrhage or calcification."
+          },
+
+          {
+            "aid": 8,
+            "answer": "Calcification of the internal capsule.",
+            "explanation": "DBS systems are metallic implants commonly placed in patients with Parkinson's disease, essential tremor, or dystonia. On CT, they appear as linear hyperdense structures that can create streak artifact. Recognizing them is important to avoid misinterpreting the findings as pathology such as hemorrhage or calcification."
+          },
+
+          {
+            "aid": 9,
+            "answer": "Metallic foreign body from head trauma.",
+            "explanation": "DBS systems are metallic implants commonly placed in patients with Parkinson's disease, essential tremor, or dystonia. On CT, they appear as linear hyperdense structures that can create streak artifact. Recognizing them is important to avoid misinterpreting the findings as pathology such as hemorrhage or calcification."
+          }
+        ]
+      },
+
+      {
+        "uid": 3,
+        "question": "On a non-contrast CT head, you notice a linear hyperdense structure passing into the basal ganglia with streak artifact. The patient has a history of Parkinson's disease. What is the most likely finding?",
+        "correctAnswer": 11,
+        "answers": [
+          {
+            "aid": 10,
+            "answer": "Calcification of the basal ganglia.",
+            "explanation": null
+          },
+
+          {
+            "aid": 11,
+            "answer": "Deep brain stimulation (DBS) electrode.",
+            "explanation": null
+          },
+          
+          {
+            "aid": 12,
+            "answer": "Acute intracerebral hemorrhage.",
+            "explanation": null
+          },
+
+          {
+            "aid": 13,
+            "answer": "Retained surgical material.",
+            "explanation": null
+          }
+        ]
+      },
+      
+      {
+        "uid": 4,
+        "question": "When interpreting CT scans in patients with DBS electrodes, which of the following errors is most important to avoid?",
+        "correctAnswer": 17,
+        "answers": [
+          {
+            "aid": 14,
+            "answer": "Misidentifying the electrode as a metallic foreign body from trauma.",
+            "explanation": null
+          },
+
+          {
+            "aid": 15,
+            "answer": "Confusing streak artifact with hemorrhage.",
+            "explanation": null
+          },
+
+          {
+            "aid": 16,
+            "answer": "Overcalling calcification at the electrode tip.",
+            "explanation": null
+          },
+
+          {
+            "aid": 17,
+            "answer": "All of the above.",
+            "explanation": null
+          }
+        ]
+      },
+
+      {
+        "uid": 5,
+        "question": "A CT scan of a patient with DBS shows streak artifacts radiating from the electrode site. Which of the following best explains this phenomenon?",
+        "correctAnswer": 18,
+        "answers": [
+          {
+            "aid": 18,
+            "answer": "Beam hardening artifacts from the metal electrode.",
+            "explanation": null
+          },
+
+          {
+            "aid": 19,
+            "answer": "Calcification of surrounding brain tissue.",
+            "explanation": null
+          },
+
+          {
+            "aid": 20,
+            "answer": "Hemorrhage tracking along the electrode path.",
+            "explanation": null
+          },
+
+          {
+            "aid": 21,
+            "answer": "Motion artifact during scan acquisition.",
+            "explanation": null
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "qid": 3,
+    "name": "Hip Replacement Quiz",
+    "questions": [
+      {
+        "uid": 6,
+        "question": "On CT imaging of the pelvis, a patient with a history of hip arthroplasty shows bright linear streaks radiating from the region of the presthesis. What is the most likely explanation?",
+        "correctAnswer": 23,
+        "answers": [
+          {
+            "aid": 22,
+            "answer": "Acute hemorrhage around the joint.",
+            "explanation": null
+          },
+
+          {
+            "aid": 23,
+            "answer": "Metal artifact from the hip prosthesis.",
+            "explanation": null
+          },
+
+          {
+            "aid": 24,
+            "answer": "Muscle calcification after surgery.",
+            "explanation": null
+          },
+
+          {
+            "aid": 25,
+            "answer": "Retained surgical material.",
+            "explanation": null
+          }
+        ]
+      },
+
+      {
+        "uid": 7,
+        "question": "Which of the following is the most common pitfall when interpreting CT scans in patients with hip replacements?",
+        "correctAnswer": 26,
+        "answers": [
+          {
+            "aid": 26,
+            "answer": "Mistaking metal artifact for hemorrhage or mass.",
+            "explanation": null
+          },
+
+          {
+            "aid": 27,
+            "answer": "Confusing the prosthesis with a fracture fragment.",
+            "explanation": null
+          },
+
+          {
+            "aid": 28,
+            "answer": "Assuming artifacts indicate infection.",
+            "explanation": null
+          },
+
+          {
+            "aid": 29,
+            "answer": "Believing implants are not visible on CT.",
+            "explanation": null
+          }
+        ]
+      },
+
+      {
+        "uid": 8,
+        "question": "The streaking artifact seen on CT in patients with hip prostesis is primarily due to:",
+        "correctAnswer": 31,
+        "answers": [
+          {
+            "aid": 30,
+            "answer": "Patient motion during scanning.",
+            "explanation": null
+          },
+
+          {
+            "aid": 31,
+            "answer": "Beam hardening from the metal prosthesis.",
+            "explanation": null
+          },
+
+          {
+            "aid": 32,
+            "answer": "Excessive soft tissue density around the hip.",
+            "explanation": null
+          },
+
+          {
+            "aid": 33,
+            "answer": "Overlying bowel gas.",
+            "explanation": null
+          }
+        ]
+      }
+    ]
+  }
+]
