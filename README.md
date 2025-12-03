@@ -3,9 +3,7 @@
 
 This project is a VR training application designed to help first- and second-year medical students become more comfortable interpreting CT scans. Using the UCF COM patient CT scan database, which is updated annually but often underutilised, we generate detailed, colour-coded 3D anatomical models that students can explore and interact with in virtual reality.
 
-### Demo Video
-
-https://drive.google.com/file/d/1aFadpAuId4atXQCX0Y2sBfgigqWyv9IU/view?usp=sharing
+[Watch our Demo Video!](https://youtu.be/ysk3U8LN6Jo)
 
 ## The Team
 
