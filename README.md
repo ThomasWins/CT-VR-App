@@ -3,6 +3,10 @@
 
 This project is a VR training application designed to help first- and second-year medical students become more comfortable interpreting CT scans. Using the UCF COM patient CT scan database, which is updated annually but often underutilised, we generate detailed, colour-coded 3D anatomical models that students can explore and interact with in virtual reality.
 
+### Demo Video
+
+https://drive.google.com/file/d/1aFadpAuId4atXQCX0Y2sBfgigqWyv9IU/view?usp=sharing
+
 ## The Team
 
 **Arianna Ramirez Oquendo** — Project Manager  
@@ -19,8 +23,11 @@ This project is a VR training application designed to help first- and second-yea
 - **Backend:** .NET, Azure SQL, REST APIs
 - **Cloud & DevOps:** Azure DevOps 
 
-- **3D & Imaging:** Slicer 3D, DICOM Viewer, 3D Rendering, Slicer Extensions, PyTorch, TotalSegmentator
+- **3D & Imaging:** Slicer 3D, DICOM Viewer, 3D Rendering, Slicer Extensions, PyTorch, TotalSegmentator, and SurfaceToolbox.
+  - TotalSegmentator: https://github.com/wasserth/TotalSegmentator
+  - Surface Toolbox: https://github.com/Slicer/SlicerSurfaceToolbox 
 
+https://github.com/user-attachments/assets/09aee521-5daa-49e9-856b-5be4115aea3d
 
 ### Presentation
 https://docs.google.com/presentation/d/1cLpQoTfoCxh2iLMkH1Pp5bwMdKN12d7rGAYZZb_W_lk/edit?usp=sharing  
