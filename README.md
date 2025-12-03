@@ -1,8 +1,26 @@
-Project Manager:
-Matthew Eisenberg
+# Clinical Imaging CT VR Application
+## About
+
+This project is a VR training application designed to help first- and second-year medical students become more comfortable interpreting CT scans. Using the UCF COM patient CT scan database, which is updated annually but often underutilised, we generate detailed, colour-coded 3D anatomical models that students can explore and interact with in virtual reality.
+
+## The Team
+
+**Arianna Ramirez Oquendo** — Project Manager  
+**Thomas Winslow** — CT Scans / 3D Models  
+**Michael Biskup** — CT Scans / 3D Models  
+**Ash Hutchinson** — Database / UI Developer  
+**Matthew Eisenberg** — Database  
+**Kyle Kratt** — Integration / VR Interactions  
+**Zoe Schlesinger** — Unity Developer / UI Developer
+
+## Tech Stack
+
+- **Game Engine:** Unity 6 (OpenXR, Meta Quest Link)
+- **Backend:** .NET, Azure SQL, REST APIs
+- **Cloud & DevOps:** Azure DevOps 
+
+- **3D & Imaging:** Slicer 3D, DICOM Viewer, 3D Rendering, Slicer Extensions, PyTorch, TotalSegmentator
 
 
-**Rules:**
-Never push to **master** branch
-
-
+### Presentation
+https://docs.google.com/presentation/d/1cLpQoTfoCxh2iLMkH1Pp5bwMdKN12d7rGAYZZb_W_lk/edit?usp=sharing  
