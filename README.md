@@ -5,8 +5,14 @@ This project is a VR training application designed to help first- and second-yea
 
 [Watch our Demo Video!](https://youtu.be/ysk3U8LN6Jo)
 
-## The Team
+### NOTICE
 
+All patient data has been removed from the project because it belongs to the **UCF College of Medicine (UCF COM)** and cannot be publicly distributed or included in this repository.
+
+If you need access to the original CT data, please contact the appropriate UCF COM representative or our project team.
+
+## The Team
+**Melissa Cowan** — Project Sponsor  
 **Arianna Ramirez Oquendo** — Project Manager  
 **Thomas Winslow** — CT Scans / 3D Models  
 **Michael Biskup** — CT Scans / 3D Models  
