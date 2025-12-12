@@ -1,7 +1,7 @@
 # Clinical Imaging CT VR Application
 ## About
 
-This project is a VR training application designed to help first- and second-year medical students become more comfortable interpreting CT scans. Using the UCF COM patient CT scan database, which is updated annually but often underutilised, we generate detailed, colour-coded 3D anatomical models that students can explore and interact with in virtual reality.
+This project is a VR training application designed to help first- and second-year medical students become more comfortable interpreting CT scans. Using the UCF COM patient CT scan database, we generate detailed, colour-coded 3D anatomical models that students can explore and interact with in virtual reality. The models include a variety of medically implanted devices, helping students to learn and identify pacemakers, back braces, hip replacements, etc.
 
 [Watch our Demo Video!](https://youtu.be/ysk3U8LN6Jo)
 
